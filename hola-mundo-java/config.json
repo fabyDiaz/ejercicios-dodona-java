@@ -5,9 +5,9 @@
       "en": "Personalized Hello World"
     }
   },
-  "evaluations": {
-    "filename": "HelloWorld.java",
-    "handler": "java"
+  "programming_language": "java",
+  "evaluation": {
+    "handler": "tested"
   },
   "visibility": "visible"
 }
