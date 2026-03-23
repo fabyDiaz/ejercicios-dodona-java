@@ -1,0 +1,13 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hola Mundo Personalizado",
+      "en": "Personalized Hello World"
+    }
+  },
+  "evaluations": {
+    "filename": "HelloWorld.java",
+    "handler": "java"
+  },
+  "visibility": "visible"
+}
