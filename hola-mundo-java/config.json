@@ -7,7 +7,7 @@
   },
   "programming_language": "java",
   "evaluation": {
-    "handler": "tested"
+    "filename": "TestSuite.java"
   },
   "visibility": "visible"
 }
