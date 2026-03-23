@@ -1,4 +1,5 @@
 {
+  "type": "exercise",
   "description": {
     "names": {
       "nl": "Hola Mundo Personalizado",
@@ -9,5 +10,5 @@
     "filename": "HelloWorld.java",
     "handler": "java"
   },
-  "visibility": "hidden"
+  "visibility": "visible"
 }
